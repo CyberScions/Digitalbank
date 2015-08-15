@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Digital Bank</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Digital Bank</string>
+    <string name="title1">Digital Solution</string>
+<string name="copyright">Digital Bank |2015</string>
+<string name="spinner_title">Select Category</string>
+</resources>

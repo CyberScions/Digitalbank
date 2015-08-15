@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
+        <dex dex="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/pre-dexed/debug/classes-e77d2628bc9caf86fe297ffad18508eaea7e621c.jar" />
+    </item>
+    <item
+        jar="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/pre-dexed/debug/classes-7e0f1beec7ab0c82e6337a2ac20e6cfff490f16a.jar" />
+    </item>
+    <item
+        jar="/Users/BugWrangler/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ca7b6d1957cede9f150fe7a2d7e5d944e349cf15.jar" />
+    </item>
+
+</items>
